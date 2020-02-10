@@ -1,0 +1,10 @@
+body {
+  background-color: gray;
+  /* text-align: center; */
+}
+#address {
+  width: 300px;
+}
+.col-12 {
+  margin: 10px 0;
+}
